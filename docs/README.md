@@ -61,9 +61,7 @@ odkaz jako...").
 
 ### 2.
 
-Na Windows můžete zkusit skript spustit dvojklikem. Měl by zůstat otevřený terminál.
-
-Jestli nefunguje spuštění dvojklikem, spusťte skript z příkazové řádky. Například jestli se skript
+Spusťte skript z příkazové řádky. Například, jestli se skript
 stáhnul do `Downloads`, spustíte:
 
 ```
