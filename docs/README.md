@@ -8,6 +8,12 @@ Sem budeme dávat odkazy na prezentace z kurzu.
 - [Soubor cheat sheetů od DataCamp](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
 
 
+# Projekt
+
+**Zamyslete se nad vlastním projektem.** V rámci kurzu budete mít půl dne až den na práci
+na vlastním projektu za naší asistence. Pokud nic nevymyslíte, můžete pracovat na našem
+"umělém" projektu.
+
 # Instalace
 
 Pro tento kurz si potřebujete nainstalovat
