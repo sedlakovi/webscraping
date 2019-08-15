@@ -29,7 +29,7 @@ Pro tento kurz si potřebujete nainstalovat
 
 ### 1.
 
-Nainstalujte Python **3**. Můžete použít [návod z kurzu vizualizace](https://sedlakovi.github.io/data-storytelling/#instalace) nebo třeba
+Nainstalujte Python **3** (Pokud ho ještě nemáte). Můžete použít [návod z kurzu vizualizace](https://sedlakovi.github.io/data-storytelling/#instalace) nebo třeba
 [materiály od PyLadies](https://naucse.python.cz/course/pyladies/beginners/install/).
 
 **Důležité** - pokud máte v uživatelském jménu do Windows mezery nebo např. háčky, čárky, zvolte "Customize installation" a vyberte cestu, která nebude uvnitř "C:\Users\Vaše jméno". Jinak můžete mít problém v pozdějších krocích s instalací balíčků.
@@ -41,7 +41,7 @@ Pozn.: Na Linuxu budete potřebovat ještě zvlášť nainstalovat `pip`. V Ubun
 
 V terminálu spusťte:
 
-    pip3 install --upgrade pandas jupyter beautifulsoup4 requests scrapy
+    pip3 install --upgrade pandas jupyter beautifulsoup4 requests scrapy lxml
 
 _Tip: Na Windows se do terminálu kopíruje pravým tlačítkem myši._
 
