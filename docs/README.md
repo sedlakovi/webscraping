@@ -1,6 +1,14 @@
-# Prezentace
+# Prezentace a Jupyter Notebooky
 
-Sem budeme dávat odkazy na prezentace z kurzu.
+- [Úvod do webscrapingu](1_uvod.slides.html)
+- [CSS selektory](2_css_selectors.slides.html)
+- [Práce s knihovnou Beautiful soup](https://github.com/sedlakovi/webscraping/blob/master/3_beautifulsoup.ipynb)
+- [Nástroje pro vývojaře webových stránek](4_developer_tools.slides.html)
+- [Práce s knihovnou requests](https://github.com/sedlakovi/webscraping/blob/master/5_requests.ipynb)
+- [Regulární výrazy](6a_regex.slides.html)
+- [Extrakce dat do tabulek](https://github.com/sedlakovi/webscraping/blob/master/6_%20extrakce_dat.ipynb)
+- [JavaScript scraping](7_js_scraping.slides.html)
+- [Crawling s knihovnou scrapy](91_scrapy.slides.html)
 
 # Cheat sheety
 
@@ -13,6 +21,10 @@ Sem budeme dávat odkazy na prezentace z kurzu.
 **Zamyslete se nad vlastním projektem.** V rámci kurzu budete mít půl dne až den na práci
 na vlastním projektu za naší asistence. Pokud nic nevymyslíte, můžete pracovat na našem
 "umělém" projektu.
+
+- [Vzorový projekt](https://github.com/sedlakovi/webscraping/blob/master/vzorovy_projekt.md)
+- [Příklad scrapování knihovny](https://github.com/sedlakovi/webscraping/blob/master/scrape_library.py)
+
 
 # Instalace
 
