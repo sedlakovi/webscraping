@@ -49,7 +49,7 @@ def send_email(text):
     msg['from'] = EMAIL_SENDER
     msg['To'] = EMAIL_RECEIVER
     s = smtplib.SMTP('smtp.email.cz', 25)
-    s.login('anastazie.sedlakova@email.cz', PASSWORD)
+    s.login(EMAIL_SENDER, PASSWORD)
     s.sendmail(msg['from'],msg['To'], msg.as_string())
 
 # Poslat email jenom v případě, že kniha je nalezena na jedné z poboček
